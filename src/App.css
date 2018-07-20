@@ -1,0 +1,32 @@
+a {
+  color: #F2F7F7;
+  font-size: 24 px;
+  font-family: sans-serif;
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li {
+  float: right;
+}
+ul { background-color: #2B2C2C;
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+
+}
+.active {
+  background-color: #2ab9b9;
+}
+p {
+  font-size: 24px;
+  font-family: sans-serif;
+  padding: 10px 60px;
+
+}
+
+h1 {
+margin: 0;
+  padding: 120px 10px;
+  height: 60px;}
